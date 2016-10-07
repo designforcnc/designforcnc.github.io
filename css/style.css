@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin-left: 60px;
+	margin-top: 60px;
+	width: 1000px;
+	background-color: #000000;
+}
+p {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #606060;
+	font-size: 22px;
+	line-height: 39px;
+	font-weight: 200;
+	font-stretch: expanded;
+}
+a {
+	color: #68B8DE;
+	font-weight: 400;
+	text-decoration: none
+}
+a:visited {
+	color: #68B8DE;
+}
+a:hover {
+	color: #FFFFFF
+}
+strong {
+	color: #68B8DE;
+	font-weight: 100;
+}
+em {
+	color: #D9995E;
+	font-style: normal;
+}
+h1 { 
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	font-size: 50px;
+	color: #68B8DE;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #606060;
+	margin-bottom: 19px
+}
+h2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 21px;
+	color: #FFFFFF;
+	float: right;
+	clear: right;
+	margin-right: 3px;
+	width: 300px;
+    margin-top: -7px;
+}
+h3 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 22px;
+	line-height: 39px;
+	font-weight: 200;
+	font-stretch: expanded;
+	color: #D9995E;
+}
+.floatleft {
+	float: left;
+}
+.floatright {
+	float: right;
+	width: 450px;
+	margin-left: 26px;
+}
+.container {
+	width: 980px
+}
+.containersmall {
+	width: 450px;
+	height: 55px;
+	margin-bottom: 20px
+}
+img {
+ border: 0px solid #021a40;
+}
